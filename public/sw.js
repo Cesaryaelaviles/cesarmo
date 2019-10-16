@@ -1,4 +1,4 @@
-﻿const CACHE = "Argelia";
+const CACHE = "cesarmo";
 // Archivos requeridos para que la aplicación funcione fuera de línea.
 const ARCHIVOS = [
  "css/estilos.css",
